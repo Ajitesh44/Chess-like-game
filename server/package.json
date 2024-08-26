@@ -1,0 +1,16 @@
+{
+    "name": "chess-like-game-server",
+    "version": "1.0.0",
+    "description": "Server for the chess-like game",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ws": "^8.18.0"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
